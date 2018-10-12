@@ -69,7 +69,7 @@ a:hover {
 	height: 150px;
 	margin: 0;
 	padding-top: 50px;
-	background: url(images/img02.jpg) no-repeat left 20px;
+	background: url(image/img02.jpg) no-repeat left 20px;
 	background-size: 140px 180px;
 	color: #000000;
 }
@@ -158,7 +158,7 @@ a:hover {
 	height: 36px;
 	margin: 0 auto;
 	padding: 0;
-	background: url(images/img01.jpg) no-repeat left top;
+	background: url(image/img01.jpg) no-repeat left top;
 }
 
 #menu ul {
