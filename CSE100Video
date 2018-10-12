@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Dr Amr Zamel  2017-2018</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<br><h1>Dr. Amr Zamel</h1>
+			<br><p> Dr.Eng in Computer and systems Department</a></p>
+			<br><p> Faculty of Engineering </a></p>
+		    <br><p> Zagazig University </a></p>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+		 
+			<li><a href="index.html">Home</a></li>
+			<li class="current_page_item"> <a href="#">(CSE100) Computer and Programming </a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+						<br><h2  class="title" >  مادة الحاسبات والبرمجة (1) للفرقة الاولى - كهرباء-مدنى -ميكانيكا </h2>
+							
+				<p class="meta"><span class="posted">   سكاشن ومسائل د/عمرو زامل</span></p>
+				<div style="clear: both;">&nbsp;</div>
+				<div class="entry">
+				
+
+				  <div class="video">
+				  <iframe " width="560" height="415" src="https://www.youtube.com/playlist?list=PLR1KtmaCt9BlciQmFlXl6leWYls7NfhcO" frameborder="0" gesture="media" allowfullscreen></iframe>
+				  </div>
+  
+			
+				</div>
+				
+				
+			</div>
+			
+		<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<li	class="current_item"><h2><a href="index.html">News</a></h2>
+					</li>
+					<p>3-02-2018 Web site Created</p>
+				
+				<li	class="current_item"><h2><a href="CSE100Info.html">Course Info</a></h2> </li> <p></p>
+				<li	class="current_item"><h2><a href="CSE100Lec.html" >Lectures</a></h2> </li> <p></p>
+				<li	class="current_item"><h2><a href="CSE100Video.html" > Video</a></h2> </li> <p></p>
+				<li	class="current_item"><h2><a href="CSE100Table.html" >Time Table</a></h2> </li> <p></p>
+				
+				
+				
+				
+				
+			</ul>
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+</div>
+	<div id="footer">
+		<p>Copyright (c) 2018 Zagazig univesity - Faculty of Engineering - Computer and Systems Department</a>.</p>
+	</div>
+	<!-- end #footer -->
+</body>
+</html>
